@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941278074842",
+    "firebase_url": "https://myfirebasecloudmessaging-58261.firebaseio.com",
+    "project_id": "myfirebasecloudmessaging-58261",
+    "storage_bucket": "myfirebasecloudmessaging-58261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941278074842:android:f4565c85e57bcb84",
+        "android_client_info": {
+          "package_name": "com.neverstop_sharing.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941278074842-97fq3q59nia04tacesiu3bhf279bvuh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neverstop_sharing.myfirebase",
+            "certificate_hash": "c2ed076290461fa4631a67b2b6ed41cf89fd1c10"
+          }
+        },
+        {
+          "client_id": "941278074842-l14r2mg9oikp1h0d68lj7dgjkc1qiegf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6bA1MkRaWaMp23yWFP26nIp46ACIC1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941278074842-l14r2mg9oikp1h0d68lj7dgjkc1qiegf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
